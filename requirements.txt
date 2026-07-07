@@ -1,0 +1,16 @@
+# --- Model training (notebook) ---
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+
+# --- API ---
+fastapi
+uvicorn[standard]
+pydantic
+
+# --- Streamlit UI ---
+streamlit
+requests
